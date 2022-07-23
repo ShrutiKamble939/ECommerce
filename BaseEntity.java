@@ -1,4 +1,5 @@
 package com.app.pojos;
+//add comment @author vaishali
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
